@@ -64,9 +64,12 @@ def render(user, tok, exclude):
         return "_No contributions yet._"
 
     stars = {name: get(f"/repos/{name}", tok)["stargazers_count"] for name in repos}
+    for prs in repos.values():
+        prs.sort(key=lambda p: p["closed_at"], reverse=True)
     lines = []
-    for name in sorted(repos, key=lambda n: (-stars[n], n.lower())):
-        prs = sorted(repos[name], key=lambda p: p["closed_at"], reverse=True)
+    # Repositories with the most recently merged PR come first.
+    for name in sorted(repos, key=lambda n: repos[n][0]["closed_at"], reverse=True):
+        prs = repos[name]
         lines.append(f"- **[{name}](https://github.com/{name})** ★{stars[name]}")
         for pr in prs:
             title = pr["title"].replace("[", "\\[").replace("]", "\\]")
