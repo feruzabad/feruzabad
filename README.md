@@ -3,7 +3,7 @@
 ## Open source contributions
 
 <!-- CONTRIBUTIONS:START -->
-- **[Viren070/AIOStreams](https://github.com/Viren070/AIOStreams)** ★3042
+- **[Viren070/AIOStreams](https://github.com/Viren070/AIOStreams)** ★3045
   - [fix(config): decrypt string and URL credentials set by the environment](https://github.com/Viren070/AIOStreams/pull/1528) (2026-10-15)
 - **[kipsilabs/altmount](https://github.com/kipsilabs/altmount)** ★323
   - [fix(api): send configured User-Agent when fetching nzb_url](https://github.com/kipsilabs/altmount/pull/987) (2026-10-09)
