@@ -5,7 +5,7 @@
 <!-- CONTRIBUTIONS:START -->
 - **[virtualmin/virtualmin-gpl](https://github.com/virtualmin/virtualmin-gpl)** ★421
   - [Fix cloud DNS provider list for resellers and owners](https://github.com/virtualmin/virtualmin-gpl/pull/1318) (2026-10-30)
-- **[Viren070/AIOStreams](https://github.com/Viren070/AIOStreams)** ★3050
+- **[Viren070/AIOStreams](https://github.com/Viren070/AIOStreams)** ★3065
   - [fix(config): decrypt string and URL credentials set by the environment](https://github.com/Viren070/AIOStreams/pull/1528) (2026-10-15)
 - **[kipsilabs/altmount](https://github.com/kipsilabs/altmount)** ★323
   - [fix(api): send configured User-Agent when fetching nzb_url](https://github.com/kipsilabs/altmount/pull/987) (2026-10-09)
@@ -16,6 +16,6 @@
   - [Fix cookie setting issue](https://github.com/mertyildiran/sentry/pull/1) (2019-08-26)
 - **[figpii/jquery](https://github.com/figpii/jquery)** ★0
   - [Global variable rework](https://github.com/figpii/jquery/pull/2) (2017-01-20)
-- **[vlucas/valitron](https://github.com/vlucas/valitron)** ★1599
+- **[vlucas/valitron](https://github.com/vlucas/valitron)** ★1598
   - [Added Turkish language.](https://github.com/vlucas/valitron/pull/147) (2016-01-15)
 <!-- CONTRIBUTIONS:END -->
