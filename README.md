@@ -5,9 +5,9 @@
 <!-- CONTRIBUTIONS:START -->
 - **[virtualmin/virtualmin-gpl](https://github.com/virtualmin/virtualmin-gpl)** ★421
   - [Fix cloud DNS provider list for resellers and owners](https://github.com/virtualmin/virtualmin-gpl/pull/1318) (2026-10-30)
-- **[Viren070/AIOStreams](https://github.com/Viren070/AIOStreams)** ★3101
+- **[Viren070/AIOStreams](https://github.com/Viren070/AIOStreams)** ★3104
   - [fix(config): decrypt string and URL credentials set by the environment](https://github.com/Viren070/AIOStreams/pull/1528) (2026-10-15)
-- **[kipsilabs/altmount](https://github.com/kipsilabs/altmount)** ★323
+- **[kipsilabs/altmount](https://github.com/kipsilabs/altmount)** ★324
   - [fix(api): send configured User-Agent when fetching nzb_url](https://github.com/kipsilabs/altmount/pull/987) (2026-10-09)
   - [fix(api): apply network proxy to nzb_url / addurl NZB fetches](https://github.com/kipsilabs/altmount/pull/986) (2026-10-09)
 - **[20jam/php-oop](https://github.com/20jam/php-oop)** ★25
