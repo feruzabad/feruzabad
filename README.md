@@ -9,7 +9,7 @@
   - [fix(api): apply network proxy to nzb_url / addurl NZB fetches](https://github.com/kipsilabs/altmount/pull/986) (2026-10-09)
 - **[virtualmin/virtualmin-gpl](https://github.com/virtualmin/virtualmin-gpl)** ★424
   - [Fix cloud DNS provider list for resellers and owners](https://github.com/virtualmin/virtualmin-gpl/pull/1318) (2026-10-30)
-- **[Viren070/AIOStreams](https://github.com/Viren070/AIOStreams)** ★3337
+- **[Viren070/AIOStreams](https://github.com/Viren070/AIOStreams)** ★3345
   - [fix(config): decrypt string and URL credentials set by the environment](https://github.com/Viren070/AIOStreams/pull/1528) (2026-10-15)
 - **[20jam/php-oop](https://github.com/20jam/php-oop)** ★25
   - [Feature/introduce composer autoloader](https://github.com/20jam/php-oop/pull/1) (2020-06-16)
